@@ -6,7 +6,8 @@
 💼 Ainda não atuo profissionalmente na área, mas estou em constante aprendizado e aberto a oportunidades
 
 ---
-
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java ☕ | SQL | HTML | CSS
 - **Frameworks:** Spring Boot 
