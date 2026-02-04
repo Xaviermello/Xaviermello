@@ -1,34 +1,35 @@
-# Olá, me chamo Henrique
+# 👋 Hi, I'm Henrique
 
-🎓 Estudante e entusiasta de **Java** e **Spring Boot**  
-🚀 Apaixonado por tecnologia, backend e boas práticas de desenvolvimento  
-📚 Atualmente focado em aprender e construir projetos para evoluir minhas habilidades  
-💼 Ainda não atuo profissionalmente na área, mas estou em constante aprendizado e aberto a oportunidades
-
----
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-      
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java ☕ | SQL | HTML | CSS
-- **Frameworks:** Spring Boot 
-- **Ferramentas:** Git | GitHub | Maven | IntelliJ IDEA | VS Code
+🎓 Student and enthusiast of **Java** and **Spring Boot**  
+🚀 Passionate about technology, backend development, and clean coding practices  
+📚 Currently focused on learning and building projects to sharpen my skills  
+💼 Not yet working professionally in the field, but constantly learning and open to opportunities  
 
 ---
 
-## 🌱 O que estou aprendendo agora
-- Testes automatizados com JUnit e Mockito  
-- Deploy de aplicações Spring Boot em servidores cloud  
-- Boas práticas de arquitetura (DDD, SOLID)
+## 🛠️ Technologies & Tools
+- **Languages:** Java ☕ | SQL | HTML | CSS  
+- **Frameworks:** Spring Boot  
+- **Tools:** Git | GitHub | Maven | IntelliJ IDEA | VS Code  
 
 ---
 
-## 📫 Como me encontrar
+## 🌱 Currently Learning
+- Automated testing with JUnit and Mockito  
+- Deploying Spring Boot applications to cloud servers  
+- Best practices in architecture (DDD, SOLID)  
+
+---
+
+## 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/henrique-melo-661325360/)  
-- 📧 Email: contatoshenriquexavier@gmail.com
-- 🐙 [GitHub](https://github.com/seuusuario)
+- 📧 Email: contatoshenriquexavier@gmail.com  
+- 🐙 [GitHub](https://github.com/seuusuario)  
 
 ---
 
-## ✨ Objetivo
-Meu objetivo é **construir uma carreira sólida como desenvolvedor backend**, aplicando meus conhecimentos em projetos reais e colaborando com equipes incríveis.  
-Enquanto isso, sigo aprendendo, praticando e compartilhando meus projetos por aqui 🚀
+## ✨ Goal
+My goal is to **build a solid career as a backend developer**, applying my knowledge to real-world projects and collaborating with amazing teams.  
+Meanwhile, I keep learning, practicing, and sharing my projects here.  
+
+---
