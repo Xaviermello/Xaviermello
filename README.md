@@ -43,12 +43,3 @@
 My goal is to **build a solid career as a backend developer**, applying my knowledge to real-world projects and collaborating with amazing teams.  
 Meanwhile, I keep learning, practicing, and sharing my projects here.  
 
----
-
-## 📊 GitHub Stats  
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xaviermello&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xaviermello&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xaviermello&theme=radical)
