@@ -34,7 +34,7 @@
 ## 📫 How to Reach Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-melo-661325360/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xaviermello)  
 📧 Email: contatoshenriquexavier@gmail.com  
 
 ---
@@ -47,5 +47,8 @@ Meanwhile, I keep learning, practicing, and sharing my projects here.
 
 ## 📊 GitHub Stats  
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)  
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xaviermello&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xaviermello&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xaviermello&theme=radical)
