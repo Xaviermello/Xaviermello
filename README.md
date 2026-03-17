@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Henrique
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&color=blue&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+%26+Spring+Boot+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
+
 🎓 Student and enthusiast of **Java** and **Spring Boot**  
 🚀 Passionate about technology, backend development, and clean coding practices  
 📚 Currently focused on learning and building projects to sharpen my skills  
@@ -42,4 +44,3 @@
 ## ✨ Goal  
 My goal is to **build a solid career as a backend developer**, applying my knowledge to real-world projects and collaborating with amazing teams.  
 Meanwhile, I keep learning, practicing, and sharing my projects here.  
-
