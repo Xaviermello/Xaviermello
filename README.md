@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henrique
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&color=blue&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+%26+Spring+Boot+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM0NjU4NzIsIm5iZiI6MTc4MzQ2NTU3MiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA3VDIzMDYxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1ZGMwYjM1YzU0MDM2OTAwMDY0ZDhiYzQ3NjJjNTM5OWYxZjE1MDNkMzgyM2I2Njg2ZmE0OWZmN2E5M2IyNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.GjUcpfxsqy22OvNqtXH348gctyReUIw9exguldDRSYc)
 
 🎓 Student and enthusiast of **Java** and **Spring Boot**  
 🚀 Passionate about technology, backend development, and clean coding practices  
